@@ -1,1 +1,1 @@
-require("./day5");
+require("./day6");
